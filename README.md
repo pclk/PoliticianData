@@ -54,7 +54,7 @@ export type ProfileSearchResult = {
 };
 ```
 
-### Elasticsearch index Mappings
+### Elasticsearch index mappings
 ```python
 index_mappings = {
   "mappings": {
