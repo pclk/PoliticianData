@@ -1,6 +1,6 @@
 # PoliticianData
 
-| ![Homepage Interface](READMEmedia/sample.png) | <div align="center"><span style="font-size: large;">**Everypolitician enriched w/ Wikidata.<br><br>Separated by countries.<br><br>Ingested into Elasticsearch.**</span></div> |
+| ![](READMEmedia/sample.png) | <div align="center"><span style="font-size: large;">**Everypolitician enriched w/ Wikidata.<br><br>Separated by countries.<br><br>Ingested into Elasticsearch.**</span></div> |
 | --- | --- |
 
 This project is part of PopFigExpert.
